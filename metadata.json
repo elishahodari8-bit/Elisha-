@@ -1,0 +1,6 @@
+{
+  "name": "ELISHA BET",
+  "description": "Premium international multi-sports sportsbook betting platform with live matches, deep markets, agent portal, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
